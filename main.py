@@ -1,5 +1,6 @@
 import pygame
 import sqlite3
+from database.db import create_db
 from screen.game_screen import game_screen
 from utils.config import *
 
@@ -96,4 +97,5 @@ def main():
 
 
 if __name__ == "__main__":
+    create_db()
     main()
