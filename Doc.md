@@ -117,4 +117,4 @@ Punto de entrada principal del proyecto.
 
 #### Diagramas de Flujo
 
-![Diagrama de Flujo](<diagrama de flujo.png>)
+<img src="diagrama de flujo.png" alt="Diagrama de Flujo" style="width:500px;"/>
