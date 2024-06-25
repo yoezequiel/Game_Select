@@ -68,7 +68,7 @@ Game_Select/
 
 #### Instalación
 
-Explicada en el [README](README)
+Explicada en el [README](README.md)
 
 #### Configuración
 
