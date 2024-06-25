@@ -23,7 +23,7 @@ BLACK = (0, 0, 0)
 GRAY = (200, 200, 200)
 DARK_GRAY = (90, 90, 90)
 
-font_patch = "assets/fonts/font_fame.TTF"
+font_patch = "assets/fonts/font_game.TTF"
 font_title = pygame.font.Font(font_patch, 36)
 font_text = pygame.font.Font(font_patch, 24)
 
